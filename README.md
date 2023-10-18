@@ -12,7 +12,7 @@ The Countdown Timer App is a simple and user-friendly tool that allows you to se
 
 ## Demo
 
-You can try the app live at
+You can try the app live at https://block-chain7.github.io/countdown-timer-app/
 
 ## Installation
 
